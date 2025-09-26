@@ -1,0 +1,5 @@
+Nesse módulo, aprendi sobre os serviços de container, é u mespaço leve, ele nao exige um gerenciamento de Sistema Operacional e tem a possibilidade de responder a grandes alterações sob Demanda.
+Pude aprender tambem sobre Instancia (uma oferta do Paas) que pode ser usado um container ou um pod e  Aplicativos de containers que podem ser realizados balanceamentos.
+Os serviços de Kubernets sao bem interessantes pois podem realizar uma orquestração com arquiteturas distribuidas.
+Ja dei uma pesquisada no portal, vasculhei as ferramentas e saber mais sobre oque cada uma delas faz, e quais as conseqeuncias de usar ou nao.
+Estou empolgado para continuar nesse Laboratório e aprender cada vez mais.
